@@ -2,7 +2,7 @@
 
 Lyophilised research peptides for in-vitro laboratory work, with third-party lab reports published by lot.
 
-- **[coa-dataset](https://github.com/vrtx-research/coa-dataset):** lot report data (HPLC purity, net content, assays, verify links) as CSV and JSON.
+- **[coa-dataset](https://github.com/vrtx-research/coa-dataset):** lot report data (HPLC purity, net content, assays, verify links) as CSV and JSON, also browsable at [vrtx-research.github.io/coa-dataset](https://vrtx-research.github.io/coa-dataset/).
 - **Lab reports:** https://vortexresearch.net/coa/
 - **Research library:** https://vortexresearch.net/blog/
 
